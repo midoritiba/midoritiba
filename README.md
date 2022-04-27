@@ -1,5 +1,16 @@
 
-#### hello world :)
+## Hello world 👋
+## I'm Michelle :penguin: I'm a Full Stack Developer student
+
+- :woman_student: I’m currently learning Next.js and Typescript.
+- :blush: Pronouns: she/her
+- :dancer: Fun fact: I love Zumba and Hiphop dance classes
+
+🏡 [portfolio][portfolio] **|** 
+👔 [linkedin][linkedin]
+
+[portfolio]: https://michelle-midori.netlify.app
+[linkedin]: https://www.linkedin.com/in/michelle-midori/
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
