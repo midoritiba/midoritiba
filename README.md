@@ -9,7 +9,7 @@
 🏡 [portfolio][portfolio] **|** 
 👔 [linkedin][linkedin]
 
-[portfolio]: https://michelle-midori.netlify.app
+[portfolio]: https://michelle-tiba.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/michelle-midori/
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
