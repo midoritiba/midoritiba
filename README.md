@@ -1,8 +1,8 @@
 
 ## Hello world 👋
-## I'm Michelle :penguin: I'm a Full Stack Developer student
+### I'm Michelle :penguin: I'm a Full Stack Developer student
 
-- :woman_student: I’m currently learning Next.js
+-  👩‍💻 I’m currently learning Next.js
 - :blush: Pronouns: she/her
 - :dancer: Fun fact: I love Zumba and Hiphop dance classes
 
