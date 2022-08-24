@@ -2,7 +2,7 @@
 ## Hello world 👋
 ### I'm Michelle :penguin: I'm a Full Stack Developer student
 
--  👩‍💻 I’m currently learning Next.js
+-  👩‍💻 I’m currently learning Typescript
 - :blush: Pronouns: she/her
 - :dancer: Fun fact: I love Zumba and Hiphop dance classes
 
