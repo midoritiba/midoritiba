@@ -1,6 +1,6 @@
 
 ## Hello world 👋
-### I'm Michelle :penguin: I'm a Full Stack Developer student
+### I'm Michelle :penguin: I'm a Full Stack Developer
 
 -  👩‍💻 I’m currently learning Typescript
 - :blush: Pronouns: she/her
