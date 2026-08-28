@@ -20,4 +20,4 @@ Vue · Nuxt · Storybook · Apollo GraphQL · Jest · REST APIs · CMS integrati
 
 ### Find me
 
-[Portfolio](https://michelle-tiba.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/michelle-midori/)
+[Portfolio](https://michelle-midori.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/michelle-midori/)
